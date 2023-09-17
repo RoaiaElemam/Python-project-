@@ -16,7 +16,6 @@ result1=[name for name in Names if name.count(char)==2]
 print(result1)
 
 #functional programing
-
 def contain (name):
     if name.count(char) == 2:
         return name
